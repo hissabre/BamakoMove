@@ -1,0 +1,16 @@
+{
+  "name": "Bamako Move",
+  "short_name": "Bamako Move",
+  "description": "Relocation planner: Langley to Bamako, December 31, 2026",
+  "start_url": "./#today",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f3ee",
+  "theme_color": "#0e5f6a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
